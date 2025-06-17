@@ -1,43 +1,39 @@
-# QuizTime 🧠📱
+# Chat App 💬🔥
 
-QuizTime is a quiz application built using Kotlin and Jetpack Compose. It enables users to test their knowledge through engaging quizzes, with a seamless backend powered by Ktor and MongoDB Atlas.
+ChatApp is a fast and modern messaging application built using **Jetpack Compose** and **Firebase**. Inspired by WhatsApp and Telegram, the app delivers a smooth chat experience with support for multimedia and real-time communication.
 
 ---
 
 ## 📷 Screenshots
 
-<!-- Include some screenshots here if available -->
+<!-- Replace with actual screenshots -->
 <p align="center">
-  <img src="dashboard.png" width="200" height = "400"/>
-  <img src="quiz.png" width="200" height = "400"/>
-  <img src="result.png" width="200" height = "400"/>
-  <img src="issue.png" width="200" height = "400"/>
+  <img src="home.jpg" width="300" height="600"/>
+  <img src="chat.jpg" width="300" height="600"/>
 </p>
-
----
 
 ## 🚀 Features
 
-- 📋 Quiz with multiple categories
-- 💡 Instant feedback on answers
-- 📊 Score tracking and progress visualization
-- 🌐 Full-stack integration with Ktor backend
-- 🧱 Built with MVVM architecture and Clean Architecture principles
-- ☁️ Cloud database using MongoDB Atlas
-- 🧪 Ensured best practices for maintainable, scalable code
+- ✨ **Beautiful UI** with Jetpack Compose
+- 🔐 **OTP Sign-In** using Phone Number
+- 🗨️ **Real-time chat** with Firebase Firestore
+- 📎 **Multimedia support** (text, images, voice messages)
+- 📤 **Image and audio uploads** with Firebase Storage
+- ✅ **MVVM Architecture** and **Clean Code Practices**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
 - **Kotlin**
 - **Jetpack Compose**
-- **Koin** for dependency injection
-- **MVVM + Clean Architecture** for scalable design
+- **Koin** for Dependency Injection
+- **MVVM + Clean Architecture**
+- **Firebase Authentication**
+- **Firebase Firestore**
+- **Firebase Storage**
 
-### Backend
-- **Ktor** (Kotlin Server Framework)
-- **MongoDB Atlas** (Cloud-hosted NoSQL Database)
+---
+
 
 
