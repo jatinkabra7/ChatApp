@@ -28,7 +28,7 @@ ChatApp is a fast and modern messaging application built using **Jetpack Compose
 - **Kotlin**
 - **Jetpack Compose**
 - **Koin** for Dependency Injection
-- **MVVM + Clean Architecture**
+- **MVI + Clean Architecture**
 - **Firebase Authentication**
 - **Firebase Firestore**
 - **Firebase Storage**
